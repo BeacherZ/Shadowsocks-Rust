@@ -20,12 +20,12 @@
 ## 🖥️ 支持系统
 
 | 系统架构 | 支持的 Linux 发行版 | 服务守护进程 |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | `x86_64` / `amd64` | **Debian** 10+ | Systemd |
 | `aarch64` / `arm64` | **Ubuntu** 18.04+ | Systemd |
 | `armv7l` / `armhf` | **Alpine Linux** 3.12+ | OpenRC |
 | `i386` / `i686` | **CentOS** 7+ / **RHEL** / **Fedora** / **Rocky** / **Alma** | Systemd |
-|  | **Arch Linux** | Systemd |
+| `x86_64` / `amd64` | **Arch Linux** | Systemd |
 
 ---
 
