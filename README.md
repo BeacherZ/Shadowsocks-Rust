@@ -2,7 +2,7 @@
 
 一个轻量、全自动化且高度兼容的 **Shadowsocks-Rust** 服务端一键管理脚本。
 
-专门针对多种 Linux 发行版与老旧客户端进行了深度适配与兼容优化。
+专门针对多种主流 Linux 发行版与各类老旧客户端，进行了全方位的深度适配与无缝兼容优化。
 
 直接调取 GitHub 官方 Releases 源码库（`shadowsocks/shadowsocks-rust`）校验与下载，确保系统安全与原汁原味。
 
