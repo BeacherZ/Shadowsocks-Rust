@@ -4,7 +4,7 @@
 
 专门针对多种主流 Linux 发行版与各类老旧客户端，进行了全方位的深度适配与无缝兼容优化。
 
-直接调取 GitHub 官方 Releases 源码库（[`shadowsocks/shadowsocks-rust`](https://github.com/shadowsocks/shadowsocks-rust)）校验与下载，确保系统安全与原汁原味。
+直接调取 GitHub 官方 Releases 源码库（[`shadowsocks/shadowsocks-rust`](https://github.com/shadowsocks/shadowsocks-rust)）下载与校验，确保系统安全与原汁原味。
 
 ---
 
